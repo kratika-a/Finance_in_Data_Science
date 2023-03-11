@@ -13,9 +13,9 @@ While covering all these topics, I was also introduced to the scientific papers 
 
 
 ### Table of Contents: 
-#### 1. Assignment 1 (Returns): 
+#### 1. Assignment 1 (Returns) - 
 For this assignment, I focused on Apple and Microsoft stock prices data from the S&P-500, a stock market index tracking the performance of 500 large companies listed on stock exchanges in the United States. I collected the daily stock prices covering the period of 2020-01-01 to 2021-01-01, interpreted the stock price movement, calculated and interpreted the returns(histogram, QQplot, correlation coefficient) 
-#### 2. Assignment 2 (CAPM): 
+#### 2. Assignment 2 (CAPM) - 
 In this assignment, I took the data for a hypothetical bank called InvRes. I obtained the risk free rates, and examined the data through visualization and correlation. Then, I ran the Capital Asset Pricing Model, and calcuated the sharpe and Treyor Ratios.  
 #### 3. Assignment 3 (Portfolio Optimization) - 
 In this assignment, I had to calculate sharpe ratio first with my own code and then employing PyPortfolioOpt library using Apple, Amazon, 3M, and Exxon companies. 
